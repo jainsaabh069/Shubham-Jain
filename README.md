@@ -27,7 +27,7 @@ I enjoy building practical, user-focused web applications and turning ideas into
 ### 🤝 Connect With Me
 
 - GitHub: https://github.com/jainsaabh069
-- LinkedIn: https://www.linkedin.com/in/shubham-jain-3679b741b/
+- LinkedIn: https://www.linkedin.com/in/shubham-jain-3679b741b
 - X: https://x.com/jainShubham069
 
 ---
